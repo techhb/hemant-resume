@@ -1,7 +1,7 @@
 # Site settings
 title: Hemant Kumar's CV 
 description: Hemant Kumars CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/hemant.png
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: techhb
   linkedin: hemantkumar98
   twitter: 
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resumecard/assets/img/hemant.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
