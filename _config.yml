@@ -50,19 +50,31 @@ author:
         • Modifying product structures for multiple component reuse across micro services (Code Cleanup).<br>
         • Set Up Coding Guidelines and Continuous involvement in code reviews.<br>
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: HCL Infosystems Ltd(Client:FedEx)
+      location: Orlando, FL
+      title: Java Developer/Architect
+      started: 2016
+      duration: (2016 - 2018)
+      description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
+        •	Worked with business team for stories creation.<br>
+        •	Created design document for stories.<br>
+        •	Developed new Micro Services workflow for the complete system.<br>
+        •	Jenkins build system setup.<br>
+        •	Coding for new Stories and maintaining regression.<br>
+        •	Setting up cloud config server along with eureka and Hystrix for services.<br>
+        •	Spring data JPA Implementation for data storage.<br>
+        •	Developed test cases via Mockito and Junit.<br>
+        •	Implemented spring JPA integration for DB connectivity.<br>
+        •	Performed code reviews and guided team members.<br>
+
     - work3:
       company: XXX Ltd
       location: Shanghai, China
       title: Java Developer
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture
+      
   educationHistory:
     - education1:
       organization: Kurukshetra University
