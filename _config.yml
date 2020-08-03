@@ -35,8 +35,8 @@ author:
       duration: (2018 - Present)
       description: 
         Worked at Chase on Fraud Detection domain to analyze application for potential fraud, by checking requests coming from multiple apps against our risk engine.
-        •	Collaborated with clients to determine epic/stories specifications and scope.
-        •	Creating and updating design document for stories.
+       -	Collaborated with clients to determine epic/stories specifications and scope.
+       -	Creating and updating design document for stories.
         •	Modified current application to PAAS compatible apps following 12 factor design principles..
         •	Implemented various cloud technologies like Resil4j, Config Server, Feign Client in Spring Boot.
         •	Controlling application throughput and threading control using Resil4j as well as Hystrix depending upon API choice.
