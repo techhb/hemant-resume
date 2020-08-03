@@ -38,6 +38,7 @@ layout: default
                                 <div class="timeline-body">
                                     {% if work.description %}
                                         <p>{{ work.description }}</p>
+                                    <p>{{ work.description | markdownify }}</p>
                                     {% endif %}
                                 </div>
                             </div>
