@@ -34,21 +34,21 @@ author:
       started: 2018
       duration: (2018 - Present)
       description: 
-        Worked at Chase on Fraud Detection domain to analyze application for potential fraud, by checking requests coming from multiple apps against our risk engine.
-       -	Collaborated with clients to determine epic/stories specifications and scope.
-       <br>-	Creating and updating design document for stories.</br>
-        <br>•	Modified current application to PAAS compatible apps following 12 factor design principles.</br>
-        •	Implemented various cloud technologies like Resil4j, Config Server, Feign Client in Spring Boot.
-        •	Controlling application throughput and threading control using Resil4j as well as Hystrix depending upon API choice.
-        •	Implemented Multithreaded API call to save time using Java Executer Services.
-        •	Implemented Multithreaded application for multiple daily batch loads related to sensitive data using spring batch as well ThreadPoolExecutor.
-        •	Implemented Wire-mock mock services on cloud for early development in case API to be consumed are not ready from 3rd party for integration testing.
-        •	Setting up Kafka Producer and Listeners with Kerberos authentication and SSL with multiple sets of bootstrap servers.
-        •	Implemented Spring Integration as architectural framework to have better control of application.
-        •	Implemented Docker Container based implementation for services so that services can be tested based on feature branch by Testing team, reducing the overall release life-cycle.
-        •	Implemented OAUTH for use by micro services using Spring Boot.
-        •	Modifying product structures for multiple component reuse across micro services (Code Cleanup).
-        •	Set Up Coding Guidelines and Continuous involvement in code reviews.
+        Worked at Chase on Fraud Detection domain to analyze application for potential fraud, by checking requests coming from multiple apps against our risk engine.<br>
+        • Collaborated with clients to determine epic/stories specifications and scope.<br>
+        • Creating and updating design document for stories.<br>
+        •	Modified current application to PAAS compatible apps following 12 factor design principles.<br>
+        •	Implemented various cloud technologies like Resil4j, Config Server, Feign Client in Spring Boot.<br>
+        •	Controlling application throughput and threading control using Resil4j as well as Hystrix depending upon API choice.<br>
+        •	Implemented Multithreaded API call to save time using Java Executer Services.<br>
+        •	Implemented Multithreaded application for multiple daily batch loads related to sensitive data using spring batch as well ThreadPoolExecutor.<br>
+        •	Implemented Wire-mock mock services on cloud for early development in case API to be consumed are not ready from 3rd party for integration testing.<br>
+        •	Setting up Kafka Producer and Listeners with Kerberos authentication and SSL with multiple sets of bootstrap servers.<br>
+        •	Implemented Spring Integration as architectural framework to have better control of application.<br>
+        •	Implemented Docker Container based implementation for services so that services can be tested based on feature branch by Testing team, reducing the overall release life-cycle.<br>
+        •	Implemented OAUTH for use by micro services using Spring Boot.<br>
+        •	Modifying product structures for multiple component reuse across micro services (Code Cleanup).<br>
+        •	Set Up Coding Guidelines and Continuous involvement in code reviews.<br>
     - work2:
       company: XXX Ltd
       location: Shanghai, China
