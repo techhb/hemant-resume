@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Hemant Kumar's CV 
+description: Hemant Kumars CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Hemant Kumar
+  title: Java Developer and Architect
+  address: Columbus, Ohio
+  email: techhb@gmail.com
+  link: https://hemantkumar.tk
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: techhb
+  linkedin: hemantkumar98
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -69,17 +69,20 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
+      name: Spring Boot
       percentage: 90%
+    - skill2:
+      name: Java 8
+      percentage: 80%
     - skill3:
-      name: JavaScript
+      name: Cassandra
       percentage: 70%
     - skill4:
       name: AngularJS
       percentage: 70%
     - skill5:
+      name: Java/Java EE
+      percentage: 90%
+    - skill6:
       name: Java/Java EE
       percentage: 90%
