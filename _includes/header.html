@@ -21,22 +21,7 @@
     </div>
     <div class="container-fluid">
         <div class="row-fluid">
-            <div class="col-sm-4">
-                <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar">
-                <h4>{{ site.author.name }}</h4>
-                <p>{{ site.author.title }}</p>
-                <p class="muted">{{ site.author.address }}</p>
-                <div class="clearfix"></div>
-            </div>
-            <div class="col-sm-4 visible-md-block visible-lg-block visible-sm-block">
-                
-                <p><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:{{ site.author.email}}">{{ site.author.email }}</a></p>
-                <p><i class="fa fa-github fa-fw"></i><a href="//github.com/{{ site.author.github }}" target="_blank">  @{{ site.author.github }} </a></p>
-                <p><i class="fa fa-linkedin-square fa-fw"></i> <a href="//linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
-            </div>
-            <div class="col-sm-4 visible-md-block visible-lg-block">
-                <a href="https://drive.google.com/file/d/10QNKCjn7N2Atm1vwz0A0dNsmJqQd4tMu/view?usp=sharing" class="btn btn-dark"><i class="icon-file icon-white"></i> Download.pdf </a>
-            </div>
+            <p><i class="fa fa-envelope-o fa-fw"><h7>{{ site.author.profileSummary}}</h7></p>
         </div>
     </div>
 </div>
