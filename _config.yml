@@ -156,6 +156,13 @@ author:
     - language3:
       name: Punjabi
       proficiency: Professional
+   certifications:
+    - certification1:
+      name: DataStax Certified Cassandra Developer Associatite
+      url: https://academy.datastax.com/certs/lookup/b9759254-3eba-4d72-882b-a7d694b5aa0a/
+    - certification2:
+      name: DataStax Certified Cassandra Administrato Associatite
+      url: https://academy.datastax.com/certs/lookup/16109304-0f46-4851-b0a6-ce1eeaca17c1/
   programmingSkills:
     - skill1:
       name: Spring Boot
