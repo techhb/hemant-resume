@@ -163,6 +163,19 @@ author:
     - certification2:
       name: DataStax Certified Cassandra Administrato Associatite
       url: https://academy.datastax.com/certs/lookup/16109304-0f46-4851-b0a6-ce1eeaca17c1/
+      url: https://academy.datastax.com/certs/lookup/b9759254-3eba-4d72-882b-a7d694b5aa0a/
+    - certification3:
+      name: IBM Certified Cloud Application Developer
+      url: https://www.youracclaim.com/badges/4d9969c8-72c1-4d99-9e07-e690259a7d3e/linked_in_profile
+    - certification4:
+      name: Microsoft Certified Azure Fundamentals
+      url: https://www.youracclaim.com/badges/f53349fe-85f4-41da-ad2d-d52db8f76d11/linked_in_profile
+    - certification5:
+      name: Oracle Certified Associate Java 8 Programmer
+      url: https://www.youracclaim.com/badges/2d9d6481-48ff-4eb6-b0db-8ce424a8f574/linked_in_profile
+    - certification6:
+      name: HackerRank Certification in Problem Solving
+      url: https://www.hackerrank.com/certificates/58761ec8157e
   programmingSkills:
     - skill1:
       name: Spring Boot
