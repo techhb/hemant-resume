@@ -193,5 +193,5 @@ author:
       name: Java Testing (Mockito/Cucumber/Junit/TestNg)
       percentage: 90%
     - skill6:
-      name: Cloud Development
-      percentage: 60%
+      name: Cloud Development(Pivotal/Azure/Kubernetes/Jenkins)
+      percentage: 70%
