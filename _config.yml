@@ -74,13 +74,13 @@ author:
       started: 2013
       duration: (Feb,2013 - Nov,2016)
       description: Worked Majorly in KYC and Anti Money Laundering Domain.<br>
-      •	Modified existing KYC application to correct coding errors, upgrade interfaces and improve overall performance.<br>
-      •	Involved in developing code for obtaining Data source, session factory, transaction factory using Spring Dependency injection, access using app context Implementation of DAO, VO for various modules like entitlement module, account profile form module and persistence using Hibernate DAO support API (Hibernate Template).<br>
-      •	Wrote and analyzed existing Pl/SQL code of various procedures, functions and corrected the design and performance issues.<br>
-      •	Creating ThreadPoolExecutor based services to analyze current load status.<br>
-      •	Created Shell Scripts for Scheduled report for frequent user queries along with automation of reports generation and publishing via shell script to senior management.<br>
-      •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
-      •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br>
+        •	Modified existing KYC application to correct coding errors, upgrade interfaces and improve overall performance.<br>
+        •	Involved in developing code for obtaining Data source, session factory, transaction factory using Spring Dependency injection, access using app context Implementation of DAO, VO for various modules like entitlement module, account profile form module and persistence using Hibernate DAO support API (Hibernate Template).<br>
+        •	Wrote and analyzed existing Pl/SQL code of various procedures, functions and corrected the design and performance issues.<br>
+        •	Creating ThreadPoolExecutor based services to analyze current load status.<br>
+        •	Created Shell Scripts for Scheduled report for frequent user queries along with automation of reports generation and publishing via shell script to senior management.<br>
+        •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
+        •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br>
     - work4:
       company: Tech Mahindra, (Client:CitiBank)
       location: Richardson, TX and Noida,India
@@ -88,13 +88,13 @@ author:
       started: 2010
       duration: (March,2010 - Feb,2013)
       description: Worked Majorly in KYC and Anti Money Laundering Domain.<br>
-      •	Modified existing KYC application to correct coding errors, upgrade interfaces and improve overall performance.<br>
-      •	Involved in developing code for obtaining Data source, session factory, transaction factory using Spring Dependency injection, access using app context Implementation of DAO, VO for various modules like entitlement module, account profile form module and persistence using Hibernate DAO support API (Hibernate Template).<br>
-      •	Wrote and analyzed existing Pl/SQL code of various procedures, functions and corrected the design and performance issues.<br>
-      •	Creating ThreadPoolExecutor based services to analyze current load status.<br>
-      •	Created Shell Scripts for Scheduled report for frequent user queries along with automation of reports generation and publishing via shell script to senior management.<br>
-      •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
-      •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br> 
+        •	Modified existing KYC application to correct coding errors, upgrade interfaces and improve overall performance.<br>
+        •	Involved in developing code for obtaining Data source, session factory, transaction factory using Spring Dependency injection, access using app context Implementation of DAO, VO for various modules like entitlement module, account profile form module and persistence using Hibernate DAO support API (Hibernate Template).<br>
+        •	Wrote and analyzed existing Pl/SQL code of various procedures, functions and corrected the design and performance issues.<br>
+        •	Creating ThreadPoolExecutor based services to analyze current load status.<br>
+        •	Created Shell Scripts for Scheduled report for frequent user queries along with automation of reports generation and publishing via shell script to senior management.<br>
+        •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
+        •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br> 
   educationHistory:
     - education1:
       organization: Kurukshetra University
