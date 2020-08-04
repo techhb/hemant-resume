@@ -82,19 +82,61 @@ author:
         •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
         •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br>
     - work4:
-      company: Tech Mahindra, (Client:CitiBank)
+      company: Tech Mahindra, (Client:AT&T)
       location: Richardson, TX and Noida,India
       title: Senior Software Engineer
       started: 2010
       duration: (March,2010 - Feb,2013)
-      description: Worked Majorly in KYC and Anti Money Laundering Domain.<br>
-        •	Modified existing KYC application to correct coding errors, upgrade interfaces and improve overall performance.<br>
-        •	Involved in developing code for obtaining Data source, session factory, transaction factory using Spring Dependency injection, access using app context Implementation of DAO, VO for various modules like entitlement module, account profile form module and persistence using Hibernate DAO support API (Hibernate Template).<br>
-        •	Wrote and analyzed existing Pl/SQL code of various procedures, functions and corrected the design and performance issues.<br>
-        •	Creating ThreadPoolExecutor based services to analyze current load status.<br>
-        •	Created Shell Scripts for Scheduled report for frequent user queries along with automation of reports generation and publishing via shell script to senior management.<br>
-        •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
-        •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br> 
+      description: XI is a middle ware which rests between front end systems (System X, OPUS, PDC, Phoenix etc.) and the back-end systems (CSI, ACS etc.).<br>
+        •	Wrote highly maintainable, solid code in Java/Spring system that formed core framework and has won consistent praise from subsequent developers since initial version.<br>
+        •	Wrote many utilities for further code/test case generation so that further development work is reduced.<br>
+        •	Creating and updating coding standard for project.<br>
+        •	Developed Systems to Simulate Back-end and created GUI Flow testing utilities using spring, hibernate, JAXB.<br>
+        •	Developed test cases via Mockito and Junit.<br>
+        •	Made sure that coding is done in Test-driven model to insure least coding issues.<br>
+    - work5:
+      company: Birlasoft, (Client:AT&T)
+      location: Noida,India
+      title: Senior Software Engineer
+      started: 2009
+      duration: (November,2009 - Feb,2010)
+      description: Michael Page is One of most recognized Job Portal in UK. Client wanted rebuild of whole system on new system.<br>
+        •	Analyzed the requirements and designed the module for Billing and Account.<br>
+        •	Low Level Design Document Creation including Class Diagram, Interaction Diagram, Activity Diagram.<br>
+        •	Presentation of Proof of Concept for Spring, Hibernate, Drools Integration along with code design with implementation of various pattern.<br>
+        •	(SOAP) Web Services Implementation and Configuration in WebLogic for Billing Module.<br>
+        •	Created the HLD and LLD, and modelling the application from Requirement.<br>
+    - work6:
+      company: Amdocs, (Client:Sensis)
+      location: Pune,Maharashtra
+      title: Senior Subject Matter Expert
+      started: 2007
+      duration: (Jun,2007 - Apr,2009)
+      description: Michael Page is One of most recognized Job Portal in UK. Client wanted rebuild of whole system on new system.<br>
+        •	Analyzed the requirements and designed the module for Billing and Account.<br>
+        •	Low Level Design Document Creation including Class Diagram, Interaction Diagram, Activity Diagram.<br>
+        •	Presentation of Proof of Concept for Spring, Hibernate, Drools Integration along with code design with implementation of various pattern.<br>
+        •	(SOAP) Web Services Implementation and Configuration in WebLogic for Billing Module.<br>
+        •	Created the HLD and LLD, and modelling the application from Requirement.<br>
+    - work7:
+      company: JumpGames
+      location: Mumbai,Maharashtra
+      title: Java Developer
+      started: 2007
+      duration: (Feb,2007 - Jun,2007)
+      description: Ramayana A Mythological Game (4 level side scrolling eye candy) based on Virgin's comic series Ramayana.<br>
+        •	Ported Game from BREW(C++) to J2ME.<br>
+        •	Modified Current Game Template so that cross platform porting becomes easier.<br>
+        •	Developed system to adjust game screen and features according to various device sizes automatically.<br>
+     - work8:
+      company: Mobera
+      location: Chandigarh,India
+      title: Software engineer
+      started: 2006
+      duration: (Feb,2006 - Feb,2007)
+      description: Worked on Porting of Pet shop Strategy based Game. The Player has to maintain and sell Pets to the customer, coming frequently player has to play with a well-planned strategy. Game had More than 100 levels.<br>
+        •	Setting Build system using Ant.<br>
+        •	Ported Game to multiple screen sizes as per devices limitation to make it playable on device that have memory constraints.<br>
   educationHistory:
     - education1:
       organization: Kurukshetra University
