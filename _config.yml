@@ -53,9 +53,10 @@ author:
     - work2:
       company: HCL Infosystems Ltd
       duration: (2016,Nov - 2018,May)
-      location: Orlando, FL/Rockville, MD/Sanantonio, TX
+      location: Orlando, FL and Rockville, MD ansSanantonio, TX
       title: Java Developer/Architect
       started: 2016
+      Roles at Orlando, FL<br>
       description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
         •	Worked with business team for stories creation.<br>
         •	Created design document for stories.<br>
@@ -68,12 +69,10 @@ author:
         •	Implemented spring JPA integration for DB connectivity.<br>
         •	Performed code reviews and guided team members.<br>
         Roles at Rockville, MD<br>
-        • Worked with business team for stories creation.<br>
         •	Performed upgrade of OAUTH for services.<br>
         •	Designing & Setting up ELK Stack for existing application, to perform better customer analysis.<br>
         •	Migrating Existing code from JDBC to hibernate based implementation to suit upcoming ORM Enhancements.<br>
         Roles at Sanantonio, TX<br>
-      Performed upgrade of OAUTH for services.<br>
         •	Design system testing for existing application to load data from Excel for multiple testing scenarios<br>
            rather than creating individual test cases, leading to prevention of multiple test cases creation by team,<br>
            hence saving development efforts.<br>
