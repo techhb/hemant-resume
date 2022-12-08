@@ -56,8 +56,9 @@ author:
       location: Orlando, FL and Rockville, MD ansSanantonio, TX
       title: Java Developer/Architect
       started: 2016
-      Roles at Orlando, FL<br>
-      description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
+      description: 
+        Roles at Orlando, FL<br>
+        Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
         •	Worked with business team for stories creation.<br>
         •	Created design document for stories.<br>
         •	Developed new Micro Services workflow for the complete system.<br>
@@ -79,7 +80,7 @@ author:
         •	Implementation of new designed testing system using Test Ng.<br>
 
     - work3:
-      company: Polaris Consulting and Services Ltd(Client:CitiBank)
+      company: Polaris Consulting and Services Ltd
       location: Tampa, FL
       title: Senior Java Developer
       started: 2013
@@ -93,7 +94,7 @@ author:
         •	Performed Query execution improvement using Executor framework and multiple data bases together during Data Loads.<br>
         •	Job status monitoring using AutoSys API Planning and Implementation of COB.<br>
     - work4:
-      company: Tech Mahindra, (Client:AT&T)
+      company: Tech Mahindra
       location: Richardson, TX and Noida,India
       title: Senior Software Engineer
       started: 2010
@@ -106,7 +107,7 @@ author:
         •	Developed test cases via Mockito and Junit.<br>
         •	Made sure that coding is done in Test-driven model to insure least coding issues.<br>
     - work5:
-      company: Birlasoft, (Client:MichaelPage)
+      company: Birlasoft
       location: Noida,India
       title: Senior Software Engineer
       started: 2009
