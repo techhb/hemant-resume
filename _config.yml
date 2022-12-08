@@ -29,7 +29,7 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Polaris Consulting & Services Ltd, Columbus, OH (Client:Chase)
+      company: Virtusa Consulting Services Pvt Ltd
       location: Columbus, OH
       title: Java Developer/Architect
       started: 2018
@@ -51,11 +51,11 @@ author:
         • Modifying product structures for multiple component reuse across micro services (Code Cleanup).<br>
         • Set Up Coding Guidelines and Continuous involvement in code reviews.<br>
     - work2:
-      company: HCL Infosystems Ltd(Client:FedEx)
+      company: HCL Infosystems Ltd
+      duration: (2016,Nov - 2018,May)
       location: Orlando, FL
       title: Java Developer/Architect
       started: 2016
-      duration: (2016,Nov - 2018,May)
       description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
         •	Worked with business team for stories creation.<br>
         •	Created design document for stories.<br>
@@ -67,6 +67,17 @@ author:
         •	Developed test cases via Mockito and Junit.<br>
         •	Implemented spring JPA integration for DB connectivity.<br>
         •	Performed code reviews and guided team members.<br>
+      location:  Rockville, MD
+      description: Worked with business team for stories creation.
+        •	Performed upgrade of OAUTH for services.
+        •	Designing & Setting up ELK Stack for existing application, to perform better customer analysis.
+        •	Migrating Existing code from JDBC to hibernate based implementation to suit upcoming ORM Enhancements.
+      location: Sanantonio, TX
+      description: Performed upgrade of OAUTH for services.
+        •	Design system testing for existing application to load data from Excel for multiple testing scenarios
+           rather than creating individual test cases, leading to prevention of multiple test cases creation by team, 
+           hence saving development efforts.
+        •	Implementation of new designed testing system using Test Ng.
 
     - work3:
       company: Polaris Consulting and Services Ltd(Client:CitiBank)
