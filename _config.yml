@@ -53,7 +53,7 @@ author:
     - work2:
       company: HCL Infosystems Ltd
       duration: (2016,Nov - 2018,May)
-      location: Orlando, FL
+      location: Orlando, FL/Rockville, MD/Sanantonio, TX
       title: Java Developer/Architect
       started: 2016
       description: Worked as part of raise team to move existing Rating system to micro-services based PAAS architecture<br>
@@ -67,17 +67,17 @@ author:
         •	Developed test cases via Mockito and Junit.<br>
         •	Implemented spring JPA integration for DB connectivity.<br>
         •	Performed code reviews and guided team members.<br>
-      location:  Rockville, MD
-      description: Worked with business team for stories creation.
-        •	Performed upgrade of OAUTH for services.
-        •	Designing & Setting up ELK Stack for existing application, to perform better customer analysis.
-        •	Migrating Existing code from JDBC to hibernate based implementation to suit upcoming ORM Enhancements.
-      location: Sanantonio, TX
-      description: Performed upgrade of OAUTH for services.
-        •	Design system testing for existing application to load data from Excel for multiple testing scenarios
-           rather than creating individual test cases, leading to prevention of multiple test cases creation by team, 
-           hence saving development efforts.
-        •	Implementation of new designed testing system using Test Ng.
+        Roles at Rockville, MD<br>
+        • Worked with business team for stories creation.<br>
+        •	Performed upgrade of OAUTH for services.<br>
+        •	Designing & Setting up ELK Stack for existing application, to perform better customer analysis.<br>
+        •	Migrating Existing code from JDBC to hibernate based implementation to suit upcoming ORM Enhancements.<br>
+        Roles at Sanantonio, TX<br>
+      Performed upgrade of OAUTH for services.<br>
+        •	Design system testing for existing application to load data from Excel for multiple testing scenarios<br>
+           rather than creating individual test cases, leading to prevention of multiple test cases creation by team,<br>
+           hence saving development efforts.<br>
+        •	Implementation of new designed testing system using Test Ng.<br>
 
     - work3:
       company: Polaris Consulting and Services Ltd(Client:CitiBank)
